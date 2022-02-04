@@ -1,0 +1,39 @@
+===
+title: >
+  The Basic Logic of the Paedobaptist Position
+author: Stephen Smith
+color:
+    colorScheme: colorbrewer-category9
+    tagColors:
+        pro: 0
+        con: 1
+model:
+    removeTagsFromText: true
+===
+
+
+
+[Paedobaptism]: The infant children of believers are proper subjects of baptism.
+    + <Continuity of the Covenants>: In the Old Covenant, the sign of faith was applied to children of the covenant community. Since there is essential continuity between the Abrahamic and New Covenants, the sign of the New Covenant should also be applied to the children of believers.
+    + <Household Solidarity>: The principle of household solidarity is evidenced from the New Testament in the book of Acts and further in 1 Cor. 7:14
+    + <Nature of the New Covenant Church>: The church is a mixed body, which means that there are some members of the covenant community who are baptized but do not have faith.
+        + <Warning Passages>:  The warning passages in Hebrews leads us to infer that there are some in the covenant community who will break the covenant commands.
+        + <Epistolary Admonitions to Children>: Paul instructs children in his epistles to specific churches, indicating that children were considered part of the covenant community. He makes no distinctions about whether or not they are believers or unbelievers.
+
+/*
+Arguments of the debate
+*/
+
+/*
+<Continuity of the Covenants>
+
+(1) In the Old Covenant, the sign of faith was applied to the children of the covenant community.
+(2) There is an essential continuity between the Abrahamic Covenant and the New Covenant.
+----
+(3) The sign of the New Covenant should also be applied to the children of the covenant community
+    +> [Paedobaptism]
+*/
+
+/*
+Does Matthew 19 teach that the kingdom belongs to those who are *like* children, or does it teach that the kingdom belongs to the children
+*/
